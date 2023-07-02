@@ -1,0 +1,3 @@
+### Linux basic command
+
+- `ls` - 
