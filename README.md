@@ -1,3 +1,6 @@
 ### Linux basic command
 
-- `ls` - 
+- `ls` - list the files and directories in the current directory
+```bash
+ls
+```
